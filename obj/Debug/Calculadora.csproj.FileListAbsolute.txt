@@ -1,0 +1,9 @@
+C:\Users\guim9\Desktop\-\Work\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\guim9\Desktop\-\Work\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\guim9\Desktop\-\Work\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\guim9\Desktop\-\Work\Calculadora\obj\Debug\Calculadora.pdb
